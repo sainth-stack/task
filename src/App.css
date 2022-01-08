@@ -45,15 +45,7 @@
   display:flex;
 }
 
-.responsive-iframe {
-  position: relative;
-  overflow: hidden;
-}
-.responsive-iframe1 {
-  position: relative;
-  overflow: hidden;
-  border-radius: 10px;
-}
+
 
 
 
