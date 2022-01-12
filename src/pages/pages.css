@@ -1,0 +1,44 @@
+.img1{
+  border: 20px;
+  
+}
+.tm-welcome-section{
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style:italic
+}
+.tm-section-title{
+  font-size: 35px;
+font-style: normal;
+}
+.img2{
+  border-radius: 20px;
+  margin-top: 30px;
+  margin-right:100px ;
+}
+.container1{
+  align-items: center;
+}
+.rating{
+  color: orange;
+  margin-right: 10px;
+width: 150px;}
+.heading{
+  color: black;
+  text-align: left;
+  margin-left: 15px;
+}
+.para1{
+  font-size: 20px;
+  text-align: left;
+  margin-left: 100px;
+  color: black;
+}
+li{
+  float:left
+  
+}
+.item2{
+
+margin-left: -20px;
+}
